@@ -1,0 +1,7 @@
+﻿  main.c
+D:\code\CApp\main.c(15,10): warning C4013: "start" undefiniert; Annahme: extern mit Rückgabetyp int
+D:\code\CApp\main.c(22,27): warning C4013: "_getch" undefiniert; Annahme: extern mit Rückgabetyp int
+D:\code\CApp\main.c(26,16): warning C4013: "noStart" undefiniert; Annahme: extern mit Rückgabetyp int
+D:\code\CApp\main.c(31,16): warning C4013: "doStart" undefiniert; Annahme: extern mit Rückgabetyp int
+D:\code\CApp\main.c(57,9): warning C4013: "gets" undefiniert; Annahme: extern mit Rückgabetyp int
+  CApp.vcxproj -> D:\code\CApp\x64\Debug\CApp.exe
